@@ -1,6 +1,6 @@
 # Site deselvolvido por:
-## Gabriela 1C!!
-### Primeira aula de programação HTML  e 
+## Gabriela Peske 1C!!
+### Primeira aula de programação HTML e CSS;
 #### 😍 :heart_eyes: em matemática;
 ##### 😊 :blush: em física;
 ###### 😁 :grin: em educação financeira;
